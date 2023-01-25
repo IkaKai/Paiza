@@ -1,0 +1,20 @@
+{
+  "name": "paiza",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkaKai/Paiza.git"
+  },
+  "author": "ika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IkaKai/Paiza/issues"
+  },
+  "homepage": "https://github.com/IkaKai/Paiza#readme",
+  "type": "module"
+}
